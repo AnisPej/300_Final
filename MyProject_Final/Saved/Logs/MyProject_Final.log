@@ -1492,3 +1492,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-22.21.56:845][440]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.11.30-22.22.00:815][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.11.30-22.22.45:945][666]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.100 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.30-22.27.56:244][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.27.56:371][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchesRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.30-22.28.03:035][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.30-22.28.57:883][677]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchesRouteD9E8DF3243CAEEBA143856A66D311EA1.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute.umap'
+[2019.11.30-22.29.08:932][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchesRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute_BuiltData.uasset" SILENT=true
+[2019.11.30-22.29.41:764][677]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchesRoute_BuiltData210EC8AC4750D8CD4D2E81BDCE24EABC.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute_BuiltData.uasset'
+[2019.11.30-22.29.46:237][678]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
