@@ -1308,3 +1308,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-21.14.24:112][504]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.11.30-21.14.46:087][569]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.975 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.11.30-21.16.15:304][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-21.17.52:261][721]Cmd: TRANSACTION UNDO
+[2019.11.30-21.17.52:262][721]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.30-21.17.52:368][721]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.17.52:479][723]Cmd: TRANSACTION UNDO
+[2019.11.30-21.17.52:479][723]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.30-21.17.53:943][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-21.17.58:391][963]Cmd: TRANSACTION UNDO
+[2019.11.30-21.17.58:391][963]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-21.18.02:177][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-21.18.13:776][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-21.19.15:218][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-21.20.30:056][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-21.20.39:975][316]Cmd: TRANSACTION UNDO
+[2019.11.30-21.20.39:977][316]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.30-21.20.40:104][316]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.20.40:268][320]Cmd: TRANSACTION UNDO
+[2019.11.30-21.20.40:268][320]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.11.30-21.20.40:400][320]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.20.52:154][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-21.21.06:578][359]Cmd: TRANSACTION UNDO
+[2019.11.30-21.21.06:578][359]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-21.21.06:724][359]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.21.07:073][369]Cmd: TRANSACTION UNDO
+[2019.11.30-21.21.07:073][369]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-21.21.07:214][369]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.21.07:952][398]Cmd: TRANSACTION UNDO
+[2019.11.30-21.21.07:952][398]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-21.21.08:080][398]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.21.17:250][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-21.21.38:241][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-21.21.38:407][735]LogRenderer: Reallocating scene render targets to support 1252x628 Format 10 NumSamples 1 (Frame:57346).
+[2019.11.30-21.21.38:468][736]LogRenderer: Reallocating scene render targets to support 1252x644 Format 10 NumSamples 1 (Frame:57348).
+[2019.11.30-21.21.38:531][737]LogRenderer: Reallocating scene render targets to support 1252x652 Format 10 NumSamples 1 (Frame:57350).
+[2019.11.30-21.21.38:593][738]LogRenderer: Reallocating scene render targets to support 1252x668 Format 10 NumSamples 1 (Frame:57352).
+[2019.11.30-21.21.38:675][739]LogRenderer: Reallocating scene render targets to support 1252x676 Format 10 NumSamples 1 (Frame:57354).
+[2019.11.30-21.21.38:740][740]LogRenderer: Reallocating scene render targets to support 1252x692 Format 10 NumSamples 1 (Frame:57356).
+[2019.11.30-21.21.38:825][741]LogRenderer: Reallocating scene render targets to support 1252x700 Format 10 NumSamples 1 (Frame:57358).
+[2019.11.30-21.21.38:885][742]LogRenderer: Reallocating scene render targets to support 1252x708 Format 10 NumSamples 1 (Frame:57360).
+[2019.11.30-21.21.38:992][745]LogRenderer: Reallocating scene render targets to support 1252x712 Format 10 NumSamples 1 (Frame:57364).
+[2019.11.30-21.22.01:068][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.30-21.22.01:069][617]LogMetaData: Removing '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2019.11.30-21.22.01:069][617]LogMetaData: Removing '/Game/FirstPersonBP/Maps/WitchesRoute.SKEL_WitchesRoute_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2019.11.30-21.22.01:104][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchesRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute_BuiltData.uasset" SILENT=true
+[2019.11.30-21.22.18:798][617]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchesRoute_BuiltData6D1F9FE64B1E9D33F777D1BF2F647377.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute_BuiltData.uasset'
+[2019.11.30-21.22.27:592][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchesRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.30-21.22.34:228][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.30-21.22.34:377][617]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-21.23.25:911][617]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchesRoute20772EB840602F76EC55AE988060D328.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchesRoute.umap'
+[2019.11.30-21.23.39:314][617]LogFileHelpers: Saving map 'WitchesRoute' took 71.724
+[2019.11.30-21.23.48:481][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2019.11.30-21.23.48:520][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.30-21.23.48:579][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.11.30-21.23.48:619][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.11.30-21.23.50:993][618]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
