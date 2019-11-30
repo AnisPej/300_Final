@@ -1362,3 +1362,133 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-21.23.48:579][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
 [2019.11.30-21.23.48:619][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
 [2019.11.30-21.23.50:993][618]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.30-22.00.19:396][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.11.30-22.09.04:390][919]LogRenderer: Reallocating scene render targets to support 1252x924 Format 10 NumSamples 1 (Frame:89811).
+[2019.11.30-22.09.29:780][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.10.49:597][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.12.05:088][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.12.16:714][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.12.34:209][884]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.30-22.12.36:801][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.13.07:467][500]Cmd: TRANSACTION UNDO
+[2019.11.30-22.13.07:467][500]LogEditorTransaction: Undo Move Actors
+[2019.11.30-22.13.16:676][935]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.11.30-22.13.16:744][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.13.20:053][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.13.20:053][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.30-22.13.20:054][ 66]PIE: New page: PIE session: WitchesRoute (Nov 30, 2019, 12:13:20 PM)
+[2019.11.30-22.13.20:054][ 66]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute
+[2019.11.30-22.13.20:125][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071694s)
+[2019.11.30-22.13.20:127][ 66]LogAIModule: Creating AISystem for world WitchesRoute
+[2019.11.30-22.13.20:127][ 66]LogPlayLevel: PIE: World Init took: (0.002008s)
+[2019.11.30-22.13.20:127][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute (0.074383s)
+[2019.11.30-22.13.20:154][ 66]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-22.13.20:154][ 66]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute
+[2019.11.30-22.13.20:154][ 66]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-22.13.20:165][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.30-22.13.20:178][ 66]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.30-22.13.20:208][ 66]LogInit: FAudioDevice initialized.
+[2019.11.30-22.13.20:209][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.13.20:253][ 66]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.30-22.13.20:262][ 66]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute up for play (max tick rate 0) at 2019.11.30-17.13.20
+[2019.11.30-22.13.20:263][ 66]LogWorld: Bringing up level for play took: 0.008607
+[2019.11.30-22.13.20:277][ 66]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute 0.736
+[2019.11.30-22.13.20:277][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.13.28:243][479]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.13.28:243][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-22.13.28:293][479]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.30-22.13.28:293][479]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.13.28:328][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-22.13.28:331][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.30-22.13.28:360][480]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.30-22.13.36:182][897]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.30-22.14.48:564][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.15.23:214][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.15.53:778][942]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.16.40:694][986]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.16.51:464][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.17.03:621][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.17.03:692][967]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.30-22.17.05:905][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.17.05:905][967]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.30-22.17.05:905][967]PIE: New page: PIE session: WitchesRoute (Nov 30, 2019, 12:17:05 PM)
+[2019.11.30-22.17.05:906][967]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute
+[2019.11.30-22.17.05:994][967]LogPlayLevel: PIE: StaticDuplicateObject took: (0.087632s)
+[2019.11.30-22.17.05:994][967]LogAIModule: Creating AISystem for world WitchesRoute
+[2019.11.30-22.17.05:995][967]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2019.11.30-22.17.05:995][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute (0.088636s)
+[2019.11.30-22.17.06:021][967]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-22.17.06:021][967]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute
+[2019.11.30-22.17.06:021][967]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-22.17.06:035][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2019.11.30-22.17.06:058][967]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.30-22.17.06:082][967]LogInit: FAudioDevice initialized.
+[2019.11.30-22.17.06:108][967]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.30-22.17.06:113][967]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute up for play (max tick rate 0) at 2019.11.30-17.17.06
+[2019.11.30-22.17.06:114][967]LogWorld: Bringing up level for play took: 0.005794
+[2019.11.30-22.17.06:127][967]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute 0.587
+[2019.11.30-22.17.06:128][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.17.20:161][695]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-22.17.20:161][695]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute
+[2019.11.30-22.17.20:161][695]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-22.17.20:164][695]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-22.17.20:164][695]LogGarbage: Warning:       PIE object: PlayerController /Game/FirstPersonBP/Maps/UEDPIE_0_WitchesRoute.WitchesRoute:PersistentLevel.PlayerController_0
+[2019.11.30-22.17.20:164][695]LogGarbage: Warning:   NON-PIE object: LocalPlayer /Engine/Transient.UnrealEdEngine_0:LocalPlayer_9
+[2019.11.30-22.17.36:301][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.17.36:302][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-22.17.36:346][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.30-22.17.36:346][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchesRoute.WitchesRoute:PersistentLevel.WitchesRoute'
+[2019.11.30-22.17.36:384][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-22.17.36:388][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2019.11.30-22.17.36:409][540]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.30-22.17.58:425][613]Cmd: TRANSACTION UNDO
+[2019.11.30-22.17.58:425][613]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2019.11.30-22.17.58:523][613]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.17.58:761][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.18.24:008][768]Cmd: TRANSACTION UNDO
+[2019.11.30-22.18.24:008][768]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-22.18.24:114][768]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.18.24:815][794]Cmd: TRANSACTION UNDO
+[2019.11.30-22.18.24:815][794]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-22.18.24:910][794]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.18.31:127][ 35]Cmd: TRANSACTION UNDO
+[2019.11.30-22.18.31:127][ 35]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2019.11.30-22.18.31:217][ 35]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.18.32:746][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.18.49:344][865]Cmd: TRANSACTION UNDO
+[2019.11.30-22.18.49:344][865]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.18.49:433][865]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.00:469][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.19.03:770][490]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.03:770][490]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.03:877][490]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.41:811][861]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.41:812][861]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.41:895][861]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.42:032][864]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.42:032][864]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.42:123][864]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.42:240][866]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.42:240][866]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.42:329][866]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.42:411][867]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.42:411][867]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.42:506][867]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.42:520][867]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.42:520][867]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.42:605][867]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.19.42:716][869]Cmd: TRANSACTION UNDO
+[2019.11.30-22.19.42:716][869]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.19.42:804][869]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.20.00:339][616]Cmd: TRANSACTION UNDO
+[2019.11.30-22.20.00:339][616]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2019.11.30-22.20.00:443][616]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.20.40:323][439]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-22.20.40:416][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.11.30-22.20.50:256][439]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.11.30-22.21.50:040][439]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchesRoute_Auto2E9CE558A4A5BE6E21CF26FA44F214215.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Saved/Autosaves/Game/FirstPersonBP/Maps/WitchesRoute_Auto2.umap'
+[2019.11.30-22.21.54:555][439]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/WitchesRoute' took 74.177
+[2019.11.30-22.21.54:555][439]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 74.177
+[2019.11.30-22.21.56:845][440]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.30-22.22.00:815][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-22.22.45:945][666]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.100 sec). This should never happen. Something is wrong with the timer delegate!
