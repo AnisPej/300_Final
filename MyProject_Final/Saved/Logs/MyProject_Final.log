@@ -1307,3 +1307,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-21.14.19:643][503]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/FirstPersonExampleMap_BuiltDataF00850C64DAEE9E64D297E83B0E3A51C.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2019.11.30-21.14.24:112][504]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.11.30-21.14.46:087][569]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.975 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.30-21.16.15:304][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
