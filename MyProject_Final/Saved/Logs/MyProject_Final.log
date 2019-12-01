@@ -1304,3 +1304,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.01-01.08.55:957][372]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.12.01-01.08.55:957][372]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.12.01-01.09.30:869][476]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.912 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.24.43:055][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.01-01.24.49:735][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.01-01.26.58:909][194]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute9F76666B407E045D244D68B3B18F98FA.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap'
+[2019.12.01-01.27.14:596][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset" SILENT=true
+[2019.12.01-01.27.48:187][194]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_BuiltData7D78A3AD4E37B7085627628773736B20.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset'
+[2019.12.01-01.27.52:875][195]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.27.52:875][195]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.28.31:025][307]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (38.149 sec). This should never happen. Something is wrong with the timer delegate!
