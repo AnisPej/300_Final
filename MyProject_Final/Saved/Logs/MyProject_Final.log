@@ -603,3 +603,704 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.30-22.45.07:098][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
 [2019.11.30-22.45.09:473][868]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
 [2019.11.30-22.45.30:910][143]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (21.437 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.30-22.49.56:099][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.50.38:892][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.50.42:976][630]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.30-23.50.45:641][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.50.45:750][686]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.30-23.50.45:911][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.50.45:946][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.30-23.50.45:989][686]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 1:50:45 PM)
+[2019.11.30-23.50.46:132][686]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.11.30-23.50.46:881][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.749288s)
+[2019.11.30-23.50.47:028][686]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.11.30-23.50.47:145][686]LogPlayLevel: PIE: World Init took: (0.263613s)
+[2019.11.30-23.50.47:145][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (1.013969s)
+[2019.11.30-23.50.47:708][686]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-23.50.47:708][686]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.11.30-23.50.47:708][686]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-23.50.47:767][686]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.11.30-23.50.47:871][686]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.30-23.50.47:897][686]LogInit: FAudioDevice initialized.
+[2019.11.30-23.50.48:241][686]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.30-23.50.48:500][686]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-18.50.48
+[2019.11.30-23.50.48:573][686]LogWorld: Bringing up level for play took: 0.203694
+[2019.11.30-23.50.49:026][686]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0465 seconds. Added 20 classes and 0 folders.
+[2019.11.30-23.50.49:138][686]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 3.947
+[2019.11.30-23.50.49:139][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.50.59:153][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.50.59:184][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.50.59:280][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.30-23.50.59:280][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.50.59:437][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.50.59:556][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.30-23.50.59:685][180]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.30-23.51.22:663][245]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush6)
+[2019.11.30-23.51.39:335][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.51.43:978][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.30-23.51.48:842][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.51.48:908][424]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.30-23.51.48:947][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.51.48:948][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.30-23.51.48:948][424]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 1:51:48 PM)
+[2019.11.30-23.51.48:948][424]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.11.30-23.51.49:001][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052530s)
+[2019.11.30-23.51.49:001][424]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.11.30-23.51.49:014][424]LogPlayLevel: PIE: World Init took: (0.013339s)
+[2019.11.30-23.51.49:014][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.066091s)
+[2019.11.30-23.51.49:039][424]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-23.51.49:039][424]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.11.30-23.51.49:039][424]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-23.51.49:055][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.30-23.51.49:065][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.30-23.51.49:084][424]LogInit: FAudioDevice initialized.
+[2019.11.30-23.51.49:112][424]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.30-23.51.49:117][424]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-18.51.49
+[2019.11.30-23.51.49:117][424]LogWorld: Bringing up level for play took: 0.004836
+[2019.11.30-23.51.49:146][424]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute -0.046
+[2019.11.30-23.51.49:147][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.51.54:783][725]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.51.54:783][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.51.54:819][725]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.30-23.51.54:820][725]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.51.54:854][725]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.51.54:857][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.11.30-23.51.54:888][726]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.11.30-23.52.07:180][369]Cmd: TRANSACTION UNDO
+[2019.11.30-23.52.07:180][369]LogEditorTransaction: Undo Move Actors
+[2019.11.30-23.52.13:577][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.52.22:752][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.52.23:763][ 16]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.11.30-23.52.24:577][ 40]Cmd: TRANSACTION UNDO
+[2019.11.30-23.52.24:577][ 40]LogEditorTransaction: Undo Brush Add
+[2019.11.30-23.52.32:667][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.52.51:483][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.53.02:452][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.11.30-23.53.06:904][902]Cmd: TRANSACTION UNDO
+[2019.11.30-23.53.06:904][902]LogEditorTransaction: Undo Move Actors
+[2019.11.30-23.53.18:326][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.53.37:972][272]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-23.53.40:066][358]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.30-23.54.37:560][860]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.30-23.54.38:294][887]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.11.30-23.54.47:770][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.54.47:830][291]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.30-23.54.47:874][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.54.47:874][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.30-23.54.47:874][291]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 1:54:47 PM)
+[2019.11.30-23.54.47:874][291]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.11.30-23.54.47:936][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062199s)
+[2019.11.30-23.54.47:938][291]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.11.30-23.54.47:938][291]LogPlayLevel: PIE: World Init took: (0.001429s)
+[2019.11.30-23.54.47:938][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.063807s)
+[2019.11.30-23.54.47:972][291]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.30-23.54.47:972][291]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.11.30-23.54.47:972][291]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.30-23.54.48:003][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.11.30-23.54.48:014][291]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.30-23.54.48:036][291]LogInit: FAudioDevice initialized.
+[2019.11.30-23.54.48:065][291]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.11.30-23.54.48:070][291]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-18.54.48
+[2019.11.30-23.54.48:070][291]LogWorld: Bringing up level for play took: 0.004568
+[2019.11.30-23.54.48:084][291]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 0.893
+[2019.11.30-23.54.48:091][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.54.50:479][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.54.50:494][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.54.50:530][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.30-23.54.50:530][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.11.30-23.54.50:568][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.30-23.54.50:573][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.11.30-23.54.50:603][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.30-23.55.12:479][345]Cmd: TRANSACTION UNDO
+[2019.11.30-23.55.12:480][345]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.11.30-23.55.34:272][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.56.02:309][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.57.13:722][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.30-23.57.51:443][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.30-23.57.51:598][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.11.30-23.59.20:630][833]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_Auto1FF7AE0E24A0D2525E4F2799EDC2B72F5.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Saved/Autosaves/Game/FirstPersonBP/Maps/WitchsRoute_Auto1.umap'
+[2019.11.30-23.59.25:171][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/WitchsRoute' took 93.614
+[2019.11.30-23.59.25:171][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 93.614
+[2019.11.30-23.59.30:746][979]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.312 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-00.03.29:830][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.03.34:078][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.03.34:952][528]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.03.42:962][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.03.51:697][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.03.57:422][472]Cmd: TRANSACTION UNDO
+[2019.12.01-00.03.57:422][472]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.04.03:485][694]Cmd: TRANSACTION UNDO
+[2019.12.01-00.04.03:485][694]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.04.14:578][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.04.16:953][226]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.04.28:396][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.04.47:189][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.04.52:794][737]Cmd: TRANSACTION UNDO
+[2019.12.01-00.04.52:794][737]LogEditorTransaction: Undo Rotate Actors
+[2019.12.01-00.05.07:248][286]Cmd: TRANSACTION UNDO
+[2019.12.01-00.05.07:248][286]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.05.43:656][826]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.06.30:777][775]Cmd: TRANSACTION UNDO
+[2019.12.01-00.06.30:777][775]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.06.32:672][832]Cmd: TRANSACTION UNDO
+[2019.12.01-00.06.32:672][832]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.06.34:942][910]Cmd: TRANSACTION UNDO
+[2019.12.01-00.06.34:942][910]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.06.37:497][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.06.44:607][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.07.25:051][959]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.12.01-00.07.27:061][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.08.10:621][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.08.36:006][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.09.22:979][848]Cmd: TRANSACTION UNDO
+[2019.12.01-00.09.22:979][848]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.09.24:441][884]Cmd: TRANSACTION UNDO
+[2019.12.01-00.09.24:441][884]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.09.25:504][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.09.34:832][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.12.04:721][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.01-00.12.06:133][539]Cmd: DELETE
+[2019.12.01-00.12.06:133][539]Cmd: ACTOR DELETE
+[2019.12.01-00.12.06:452][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.06:547][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.01-00.12.06:560][539]LogEditorActor: Deleted 1 Actors (0.205 secs)
+[2019.12.01-00.12.09:505][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2019.12.01-00.12.10:422][719]Cmd: DELETE
+[2019.12.01-00.12.10:422][719]Cmd: ACTOR DELETE
+[2019.12.01-00.12.10:459][719]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.10:501][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.01-00.12.10:502][719]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.12.01-00.12.11:967][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2019.12.01-00.12.12:795][829]Cmd: DELETE
+[2019.12.01-00.12.12:795][829]Cmd: ACTOR DELETE
+[2019.12.01-00.12.12:840][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.12:886][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.01-00.12.12:886][829]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2019.12.01-00.12.13:428][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2019.12.01-00.12.14:280][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube18)
+[2019.12.01-00.12.15:659][952]Cmd: DELETE
+[2019.12.01-00.12.15:660][952]Cmd: ACTOR DELETE
+[2019.12.01-00.12.15:712][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.15:712][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.15:754][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.12.01-00.12.15:755][952]LogEditorActor: Deleted 2 Actors (0.095 secs)
+[2019.12.01-00.12.16:249][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2019.12.01-00.12.17:038][ 13]Cmd: DELETE
+[2019.12.01-00.12.17:038][ 13]Cmd: ACTOR DELETE
+[2019.12.01-00.12.17:084][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.12.17:128][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.12.01-00.12.17:128][ 13]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.12.01-00.12.24:584][333]Cmd: DELETE
+[2019.12.01-00.12.24:584][333]Cmd: ACTOR DELETE
+[2019.12.01-00.12.24:629][333]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.12.24:629][333]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.12.24:630][333]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.12.24:630][333]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.12.24:680][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.12.01-00.12.24:739][333]LogEditorActor: Deleted 4 Actors (0.155 secs)
+[2019.12.01-00.12.29:300][550]Cmd: TRANSACTION UNDO
+[2019.12.01-00.12.29:301][550]LogEditorTransaction: Undo Delete Actors
+[2019.12.01-00.12.34:108][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.12.49:022][321]LogGeometryMode: Warning: Unable to find ConeBrush Brush(s) in new BSP
+[2019.12.01-00.12.49:022][321]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.12.54:917][555]LogGeometryMode: Warning: Unable to find ConeBrush Brush(s) in new BSP
+[2019.12.01-00.12.54:918][555]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.13.06:006][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.13.22:809][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.13.28:479][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.13.29:146][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.12.01-00.13.39:559][436]Cmd: TRANSACTION UNDO
+[2019.12.01-00.13.39:559][436]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.13.39:965][443]Cmd: TRANSACTION UNDO
+[2019.12.01-00.13.39:966][443]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.01-00.13.40:845][477]Cmd: TRANSACTION UNDO
+[2019.12.01-00.13.40:845][477]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.14.09:299][766]LogGeometryMode: Warning: Unable to find ConeBrush2 Brush(s) in new BSP
+[2019.12.01-00.14.09:299][766]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.14.57:235][976]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.14.57:397][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.12.01-00.16.29:589][976]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_Auto2C99EB3314069E5EE797DDC84543EF868.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Saved/Autosaves/Game/FirstPersonBP/Maps/WitchsRoute_Auto2.umap'
+[2019.12.01-00.16.33:975][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/WitchsRoute' took 96.651
+[2019.12.01-00.16.33:975][976]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 96.651
+[2019.12.01-00.16.36:243][977]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-00.17.32:544][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.17.32:606][575]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-00.17.36:126][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.17.36:127][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.17.36:127][575]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:17:36 PM)
+[2019.12.01-00.17.36:127][575]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.17.36:229][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.102038s)
+[2019.12.01-00.17.36:230][575]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.17.36:230][575]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2019.12.01-00.17.36:230][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.103542s)
+[2019.12.01-00.17.36:267][575]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.17.36:267][575]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.17.36:267][575]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.17.36:288][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2019.12.01-00.17.36:299][575]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.17.36:318][575]LogInit: FAudioDevice initialized.
+[2019.12.01-00.17.36:349][575]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.17.36:357][575]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.17.36
+[2019.12.01-00.17.36:357][575]LogWorld: Bringing up level for play took: 0.007559
+[2019.12.01-00.17.36:370][575]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 1.179
+[2019.12.01-00.17.36:370][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.17.36:444][576]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059434 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2019.12.01-00.17.51:950][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.17.51:954][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.17.51:990][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.17.51:990][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.17.52:039][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.17.52:044][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.12.01-00.17.52:075][402]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.01-00.17.58:736][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2019.12.01-00.17.59:511][792]Cmd: DELETE
+[2019.12.01-00.17.59:515][792]Cmd: ACTOR DELETE
+[2019.12.01-00.17.59:551][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.17.59:592][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.01-00.17.59:593][792]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.12.01-00.18.07:573][212]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.01-00.18.09:094][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.18.10:299][275]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.12.01-00.18.20:346][631]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.18.22:524][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.19.21:710][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.19.32:428][689]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.32:428][689]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.01-00.19.32:937][700]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.32:937][700]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.12.01-00.19.33:697][723]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.33:697][723]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.01-00.19.34:366][745]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.34:367][745]LogEditorTransaction: Undo Snap Actors To Floor
+[2019.12.01-00.19.35:442][764]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.35:442][764]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.19.39:385][940]Cmd: DELETE
+[2019.12.01-00.19.39:387][940]Cmd: ACTOR DELETE
+[2019.12.01-00.19.39:431][940]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.19.39:500][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.12.01-00.19.39:621][940]LogEditorActor: Deleted 1 Actors (0.234 secs)
+[2019.12.01-00.19.42:633][ 84]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.42:633][ 84]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.01-00.19.43:656][127]Cmd: TRANSACTION UNDO
+[2019.12.01-00.19.43:656][127]LogEditorTransaction: Undo Delete Actors
+[2019.12.01-00.20.45:813][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2019.12.01-00.20.46:616][896]Cmd: DELETE
+[2019.12.01-00.20.46:616][896]Cmd: ACTOR DELETE
+[2019.12.01-00.20.46:641][896]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.20.46:688][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.12.01-00.20.46:689][896]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2019.12.01-00.20.48:900][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2019.12.01-00.20.49:692][ 41]Cmd: DELETE
+[2019.12.01-00.20.49:693][ 41]Cmd: ACTOR DELETE
+[2019.12.01-00.20.49:720][ 41]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.20.49:757][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.12.01-00.20.49:758][ 41]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2019.12.01-00.20.50:411][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2019.12.01-00.20.50:712][ 90]Cmd: DELETE
+[2019.12.01-00.20.50:712][ 90]Cmd: ACTOR DELETE
+[2019.12.01-00.20.50:740][ 90]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.12.01-00.20.50:782][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.12.01-00.20.50:782][ 90]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2019.12.01-00.20.53:732][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube17)
+[2019.12.01-00.20.54:250][273]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2019.12.01-00.20.54:987][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube21)
+[2019.12.01-00.21.08:383][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2019.12.01-00.21.09:265][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2019.12.01-00.21.09:844][972]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2019.12.01-00.21.10:177][984]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2019.12.01-00.21.11:839][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube16)
+[2019.12.01-00.21.13:526][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2019.12.01-00.21.14:879][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2019.12.01-00.21.26:090][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.21.28:930][830]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.21.30:506][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.21.44:033][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.22.19:347][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.22.20:739][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.22.27:199][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.22.31:244][877]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.22.36:005][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.22.40:682][346]Cmd: TRANSACTION UNDO
+[2019.12.01-00.22.40:682][346]LogEditorTransaction: Undo Scale Actors
+[2019.12.01-00.22.41:984][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.23.10:589][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.23.14:778][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.23.35:076][909]Cmd: EDCALLBACK SURFPROPS
+[2019.12.01-00.24.02:026][ 51]Cmd: DELETE
+[2019.12.01-00.24.02:026][ 51]Cmd: ACTOR DELETE
+[2019.12.01-00.24.02:071][ 51]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.24.02:121][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.12.01-00.24.02:248][ 51]LogEditorActor: Deleted 1 Actors (0.221 secs)
+[2019.12.01-00.24.03:918][102]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.01-00.24.04:095][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.24.04:097][102]Cmd: TRANSACTION UNDO
+[2019.12.01-00.24.04:097][102]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.12.01-00.24.05:579][169]Cmd: TRANSACTION UNDO
+[2019.12.01-00.24.05:579][169]LogEditorTransaction: Undo Delete Actors
+[2019.12.01-00.24.42:012][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.24.42:190][781]LogActorFactory: Actor Factory created Cylinder
+[2019.12.01-00.24.43:557][841]LogActorFactory: Actor Factory created Cylinder
+[2019.12.01-00.24.44:525][883]Cmd: TRANSACTION UNDO
+[2019.12.01-00.24.44:525][883]LogEditorTransaction: Undo Create Actors
+[2019.12.01-00.24.45:067][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.24.47:795][ 13]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.24.51:488][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.25.13:174][215]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.25.24:704][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.25.24:803][742]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-00.25.24:845][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.25.24:846][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.25.24:846][742]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:25:24 PM)
+[2019.12.01-00.25.24:846][742]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.25.24:922][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076807s)
+[2019.12.01-00.25.24:923][742]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.25.24:923][742]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2019.12.01-00.25.24:924][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.078464s)
+[2019.12.01-00.25.24:948][742]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.25.24:948][742]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.25.24:948][742]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.25.24:977][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.01-00.25.24:989][742]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.25.25:014][742]LogInit: FAudioDevice initialized.
+[2019.12.01-00.25.25:045][742]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.25.25:067][742]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.25.25
+[2019.12.01-00.25.25:067][742]LogWorld: Bringing up level for play took: 0.021716
+[2019.12.01-00.25.25:081][742]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute -0.111
+[2019.12.01-00.25.25:081][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.25.39:763][557]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.25.39:766][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.25.39:813][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.25.39:813][557]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.25.39:860][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.25.39:866][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.12.01-00.25.39:898][558]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.01-00.25.45:105][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.25.47:290][965]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.25.49:474][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.25.56:982][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.26.04:827][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.26.28:840][913]Cmd: TRANSACTION UNDO
+[2019.12.01-00.26.28:840][913]LogEditorTransaction: Undo Rotate Actors
+[2019.12.01-00.26.35:166][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.26.41:894][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.27.11:446][887]Cmd: TRANSACTION UNDO
+[2019.12.01-00.27.11:447][887]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.28.02:660][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.28.40:865][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.28.54:473][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.29.03:977][ 68]Cmd: TRANSACTION UNDO
+[2019.12.01-00.29.03:977][ 68]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.29.16:078][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.29.41:993][714]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.30.13:176][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.30.13:241][275]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-00.30.13:283][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.30.13:283][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.30.13:284][275]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:30:13 PM)
+[2019.12.01-00.30.13:284][275]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.30.13:375][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091027s)
+[2019.12.01-00.30.13:376][275]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.30.13:376][275]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2019.12.01-00.30.13:376][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.092092s)
+[2019.12.01-00.30.13:402][275]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.30.13:402][275]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.30.13:402][275]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.30.13:462][275]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.12.01-00.30.13:476][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.30.13:495][275]LogInit: FAudioDevice initialized.
+[2019.12.01-00.30.13:522][275]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.30.13:529][275]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.30.13
+[2019.12.01-00.30.13:529][275]LogWorld: Bringing up level for play took: 0.006663
+[2019.12.01-00.30.13:542][275]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 0.351
+[2019.12.01-00.30.13:550][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.30.18:205][520]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.30.18:205][520]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.30.18:205][520]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.30.18:214][520]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.30.18:214][520]LogGarbage: Warning:       PIE object: PlayerController /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute:PersistentLevel.PlayerController_0
+[2019.12.01-00.30.18:214][520]LogGarbage: Warning:   NON-PIE object: LocalPlayer /Engine/Transient.UnrealEdEngine_0:LocalPlayer_5
+[2019.12.01-00.30.22:899][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.30.22:900][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.30.22:938][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.30.22:939][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.30.22:989][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.30.22:995][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.12.01-00.30.23:025][769]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.01-00.30.37:591][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.30.47:648][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.30.51:569][ 20]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.01-00.30.51:629][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.30.53:216][ 90]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2019.12.01-00.31.40:145][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.31.47:104][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.31.56:246][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.12.01-00.32.25:051][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.32.26:311][496]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.33.30:852][449]Cmd: TRANSACTION UNDO
+[2019.12.01-00.33.30:852][449]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.34.27:954][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.34.54:107][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.34.55:743][346]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.34.57:584][402]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.12.01-00.35.14:431][237]Cmd: DELETE
+[2019.12.01-00.35.14:431][237]Cmd: ACTOR DELETE
+[2019.12.01-00.35.14:510][237]LogEditorActor: Deleted Actor: Brush
+[2019.12.01-00.35.14:601][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.01-00.35.14:731][237]LogEditorActor: Deleted 1 Actors (0.299 secs)
+[2019.12.01-00.35.17:095][350]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.35.18:046][393]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.35.33:898][152]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2019.12.01-00.35.43:580][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.35.44:549][669]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.35.50:813][979]Cmd: TRANSACTION UNDO
+[2019.12.01-00.35.50:813][979]LogEditorTransaction: Undo Brush Add
+[2019.12.01-00.35.53:515][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.35.58:652][359]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.36.11:750][970]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.37.04:790][319]Cmd: TRANSACTION UNDO
+[2019.12.01-00.37.04:790][319]LogEditorTransaction: Undo Rotate Actors
+[2019.12.01-00.37.05:592][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.37.25:451][193]Cmd: TRANSACTION UNDO
+[2019.12.01-00.37.25:451][193]LogEditorTransaction: Undo Select Brush Surface
+[2019.12.01-00.37.30:629][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.38.45:979][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.38.48:605][103]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.38.55:093][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.39.10:857][158]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.01-00.39.45:790][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.40.00:452][494]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.40.21:051][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.40.50:447][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.40.59:337][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.41.18:865][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2019.12.01-00.42.06:093][602]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.12.01-00.42.06:146][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.42.07:202][641]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.42.07:203][641]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.42.07:203][641]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:42:07 PM)
+[2019.12.01-00.42.07:203][641]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.42.07:313][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.110774s)
+[2019.12.01-00.42.07:314][641]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.42.07:314][641]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.12.01-00.42.07:314][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.112017s)
+[2019.12.01-00.42.07:342][641]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.42.07:342][641]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.42.07:342][641]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.42.07:417][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.01-00.42.07:431][641]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.42.07:450][641]LogInit: FAudioDevice initialized.
+[2019.12.01-00.42.07:451][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.42.07:503][641]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.42.07:511][641]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.42.07
+[2019.12.01-00.42.07:512][641]LogWorld: Bringing up level for play took: 0.007667
+[2019.12.01-00.42.07:526][641]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 0.335
+[2019.12.01-00.42.07:527][641]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.42.20:619][361]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.42.20:628][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.42.20:659][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.42.20:659][361]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.42.20:713][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.42.20:721][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.01-00.42.20:755][362]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.01-00.42.55:575][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.43.02:940][418]Cmd: TRANSACTION UNDO
+[2019.12.01-00.43.02:940][418]LogEditorTransaction: Undo Clicking on Brush Vertex
+[2019.12.01-00.43.04:149][459]Cmd: TRANSACTION UNDO
+[2019.12.01-00.43.04:149][459]LogEditorTransaction: Undo Edit Tessellation
+[2019.12.01-00.43.09:026][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.43.09:878][712]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.44.06:472][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.44.06:547][341]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-00.44.06:586][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.44.06:586][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.44.06:586][341]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:44:06 PM)
+[2019.12.01-00.44.06:586][341]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.44.06:667][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080645s)
+[2019.12.01-00.44.06:668][341]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.44.06:668][341]LogPlayLevel: PIE: World Init took: (0.000898s)
+[2019.12.01-00.44.06:668][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.081840s)
+[2019.12.01-00.44.06:696][341]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.44.06:696][341]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.44.06:696][341]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.44.06:726][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2019.12.01-00.44.06:737][341]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.44.06:756][341]LogInit: FAudioDevice initialized.
+[2019.12.01-00.44.06:788][341]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.44.06:796][341]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.44.06
+[2019.12.01-00.44.06:796][341]LogWorld: Bringing up level for play took: 0.007874
+[2019.12.01-00.44.06:810][341]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute -0.382
+[2019.12.01-00.44.06:811][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.44.25:953][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.44.25:953][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.44.25:991][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.44.25:991][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.44.26:044][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.44.26:050][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.01-00.44.26:081][384]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.01-00.44.32:991][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.44.33:198][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.01-00.44.35:498][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.12.01-00.44.47:598][751]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.12.01-00.46.24:617][751]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute3493294841D0D6842125DDBF91E708C0.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap'
+[2019.12.01-00.46.35:760][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset" SILENT=true
+[2019.12.01-00.47.08:013][751]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_BuiltData8D7787C14CAB6F53C4854DA5580C79AE.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset'
+[2019.12.01-00.47.12:553][752]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-00.47.30:990][807]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (18.436 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-00.47.59:711][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.48.04:096][534]Cmd: TRANSACTION UNDO
+[2019.12.01-00.48.04:096][534]LogEditorTransaction: Undo Set Scale
+[2019.12.01-00.48.05:162][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.48.07:720][644]Cmd: TRANSACTION UNDO
+[2019.12.01-00.48.07:720][644]LogEditorTransaction: Undo Set Scale
+[2019.12.01-00.48.09:291][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.48.34:722][668]Cmd: TRANSACTION UNDO
+[2019.12.01-00.48.34:722][668]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.48.52:348][283]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.01-00.49.09:781][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.49.10:847][984]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.49.12:598][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.49.31:930][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.50.05:628][ 66]Cmd: TRANSACTION UNDO
+[2019.12.01-00.50.05:628][ 66]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.50.22:299][652]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush15)
+[2019.12.01-00.51.09:949][446]Cmd: TRANSACTION UNDO
+[2019.12.01-00.51.09:949][446]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.51.20:653][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.51.20:696][837]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.01-00.51.20:750][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.51.20:750][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.01-00.51.20:750][837]PIE: New page: PIE session: WitchsRoute (Nov 30, 2019, 2:51:20 PM)
+[2019.12.01-00.51.20:750][837]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute
+[2019.12.01-00.51.20:874][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.123695s)
+[2019.12.01-00.51.20:874][837]LogAIModule: Creating AISystem for world WitchsRoute
+[2019.12.01-00.51.20:874][837]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2019.12.01-00.51.20:875][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute to /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute (0.125108s)
+[2019.12.01-00.51.20:907][837]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.51.20:907][837]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.51.20:907][837]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.51.20:987][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.12.01-00.51.21:009][837]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.01-00.51.21:037][837]LogInit: FAudioDevice initialized.
+[2019.12.01-00.51.21:315][837]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.12.01-00.51.21:323][837]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute up for play (max tick rate 0) at 2019.11.30-19.51.21
+[2019.12.01-00.51.21:324][837]LogWorld: Bringing up level for play took: 0.008027
+[2019.12.01-00.51.21:338][837]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute 0.147
+[2019.12.01-00.51.21:338][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.51.44:309][930]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.51.44:309][930]LogGarbage: Warning:       PIE object: World /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute
+[2019.12.01-00.51.44:309][930]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.12.01-00.51.44:323][930]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.12.01-00.51.44:323][930]LogGarbage: Warning:       PIE object: PlayerController /Game/FirstPersonBP/Maps/UEDPIE_0_WitchsRoute.WitchsRoute:PersistentLevel.PlayerController_0
+[2019.12.01-00.51.44:323][930]LogGarbage: Warning:   NON-PIE object: LocalPlayer /Engine/Transient.UnrealEdEngine_0:LocalPlayer_8
+[2019.12.01-00.52.03:136][809]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.52.03:136][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.52.03:181][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.01-00.52.03:181][809]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute' with GeneratedClass '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.WitchsRoute'
+[2019.12.01-00.52.03:245][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.01-00.52.03:253][809]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.12.01-00.52.03:291][810]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.01-00.53.05:977][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.53.15:219][613]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.12.01-00.53.22:780][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.53.28:530][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.53.37:343][449]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2019.12.01-00.53.38:297][488]Cmd: TRANSACTION UNDO
+[2019.12.01-00.53.38:297][488]LogEditorTransaction: Undo Clicking on Actors
+[2019.12.01-00.53.50:414][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.54.06:066][558]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.54.34:878][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.54.38:213][777]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.12.01-00.55.07:616][ 28]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.ModelComponent_36952' invalid (6971 verts, 0 indices).
+[2019.12.01-00.55.07:616][ 28]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/WitchsRoute.WitchsRoute:PersistentLevel.ModelComponent_36952.BodySetup_0 when we are unable to.
+[2019.12.01-00.55.47:379][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.55.51:746][826]Cmd: TRANSACTION UNDO
+[2019.12.01-00.55.51:746][826]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.55.52:045][826]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.55.52:045][826]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.55.52:045][826]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.55.55:912][958]Cmd: TRANSACTION UNDO
+[2019.12.01-00.55.55:913][958]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.55.56:113][958]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.55.56:113][958]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.55.56:113][958]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.55.58:192][ 28]LogGeometryMode: Warning: Unable to find CylinderBrush16 Brush(s) in new BSP
+[2019.12.01-00.55.58:192][ 28]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.56.02:698][194]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.02:698][194]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.10:528][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.56.18:094][766]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.18:094][766]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.24:627][987]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.24:627][987]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.25:887][ 24]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.12.01-00.56.29:697][146]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.29:697][146]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.39:516][503]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.39:516][503]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.39:796][503]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.56.39:796][503]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.56.39:796][503]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.56.43:142][615]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.43:142][615]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.43:325][615]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.56.43:326][615]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.56.43:326][615]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.56.48:481][795]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.48:481][795]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.48:732][795]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.56.48:732][795]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.56.48:732][795]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.56.49:172][804]Cmd: ACTOR HIDE SELECTED
+[2019.12.01-00.56.50:447][854]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.50:447][854]LogEditorTransaction: Undo Hide Selected
+[2019.12.01-00.56.53:747][961]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.53:747][961]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.54:086][961]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.56.54:087][961]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.56.54:087][961]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.56.57:334][ 60]Cmd: TRANSACTION UNDO
+[2019.12.01-00.56.57:334][ 60]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.56.57:520][ 60]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2019.12.01-00.56.57:520][ 60]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.56.57:520][ 60]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.57.08:386][445]LogGeometryMode: Warning: Unable to find CylinderBrush16 Brush(s) in new BSP
+[2019.12.01-00.57.08:386][445]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.57.13:342][618]Cmd: TRANSACTION UNDO
+[2019.12.01-00.57.13:342][618]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.57.19:802][830]Cmd: TRANSACTION UNDO
+[2019.12.01-00.57.19:802][830]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.57.37:798][489]LogEditorViewport: Clicking on Actor (double click): Brush (Cylinder Brush)
+[2019.12.01-00.57.47:019][847]Cmd: TRANSACTION UNDO
+[2019.12.01-00.57.47:019][847]LogEditorTransaction: Undo Move Actors
+[2019.12.01-00.57.47:267][847]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2019.12.01-00.57.47:267][847]LogGeometryMode: Warning: Unable to resolve CylinderBrush Brush in new BSP, see above
+[2019.12.01-00.57.47:267][847]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.57.48:621][894]LogGeometryMode: Warning: Unable to find CylinderBrush15 Brush(s) in new BSP
+[2019.12.01-00.57.48:621][894]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2019.12.01-00.57.54:695][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.58.02:728][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.58.06:700][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.58.11:059][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-00.58.37:090][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.59.14:625][133]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-00.59.28:139][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-00.59.31:553][801]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.01-01.00.07:595][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.01-01.00.53:964][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-01.01.26:319][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-01.01.47:897][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.01-01.01.48:005][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.01-01.01.48:187][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.12.01-01.03.38:338][ 83]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRouteBFED82234BD08BC355583FBDCB148FC9.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap'
+[2019.12.01-01.03.49:461][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset" SILENT=true
+[2019.12.01-01.04.20:565][ 83]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_BuiltData6CF420BE4B7EA6131B240DBC486241CB.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset'
+[2019.12.01-01.04.25:064][ 84]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.04.30:768][101]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (5.704 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.05.35:967][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.01-01.05.36:100][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2019.12.01-01.08.18:320][371]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute26809CD84DFC31F0A8ACBAB488C47CEC.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute.umap'
+[2019.12.01-01.08.29:538][371]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/WitchsRoute_BuiltData" FILE="E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset" SILENT=true
+[2019.12.01-01.08.51:480][371]LogSavePackage: Moving 'E:/DAGD300/300_Final/MyProject_Final/Saved/WitchsRoute_BuiltData09A97819453E96D776FE9E962FEAC65C.tmp' to 'E:/DAGD300/300_Final/MyProject_Final/Content/FirstPersonBP/Maps/WitchsRoute_BuiltData.uasset'
+[2019.12.01-01.08.55:957][372]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.08.55:957][372]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.01-01.09.30:869][476]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (34.912 sec). This should never happen. Something is wrong with the timer delegate!
